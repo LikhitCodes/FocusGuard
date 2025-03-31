@@ -1,0 +1,15 @@
+# Ignore environment files
+.env
+
+# Ignore virtual environment
+venv/
+
+# Ignore temp files and backup files
+temp/
+initital_backup.zip
+initital_backup/
+
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+*.pyo

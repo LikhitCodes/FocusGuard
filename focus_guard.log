@@ -1,0 +1,751 @@
+2025-03-30 23:22:21,734 - FocusGuard - INFO - Focus monitoring started
+2025-03-30 23:22:24,347 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 23:22:34,000 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 23:22:43,393 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 23:22:46,337 - FocusGuard - INFO - Focus monitoring stopped
+2025-03-30 23:22:51,993 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 23:26:27,676 - FocusGuard - INFO - Configuration updated
+2025-03-30 23:26:48,261 - FocusGuard - INFO - Focus monitoring started
+2025-03-30 23:26:50,940 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 23:27:14,176 - FocusGuard - ERROR - Voice alert error: [Errno 13] Permission denied: 'C:\\Users\\LikhitChirmade\\AppData\\Local\\Temp\\tmpbvn7hug7.wav'
+2025-03-30 23:28:51,805 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 23:29:10,590 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 23:29:19,646 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 23:30:24,812 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 23:30:31,817 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 23:30:41,692 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 23:31:52,156 - FocusGuard - INFO - Focus monitoring started
+2025-03-30 23:31:57,199 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 23:31:57,211 - FocusGuard - INFO - Focus monitoring stopped
+2025-03-30 23:31:57,212 - FocusGuard - INFO - Focus monitoring stopped
+2025-03-30 23:33:02,554 - FocusGuard - INFO - Configuration updated
+2025-03-30 23:33:06,669 - FocusGuard - INFO - Focus monitoring started
+2025-03-30 23:33:11,303 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 23:33:43,039 - FocusGuard - ERROR - Voice alert error: [Errno 13] Permission denied: 'C:\\Users\\LikhitChirmade\\AppData\\Local\\Temp\\tmpl3xvvkk9.wav'
+2025-03-30 23:33:49,772 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 23:33:57,987 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 23:34:07,851 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 23:34:16,010 - FocusGuard - INFO - Configuration updated
+2025-03-30 23:34:17,854 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 23:34:26,114 - FocusGuard - INFO - Focus monitoring started
+2025-03-30 23:34:26,528 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 23:34:30,254 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 23:34:52,290 - FocusGuard - ERROR - Voice alert error: [Errno 13] Permission denied: 'C:\\Users\\LikhitChirmade\\AppData\\Local\\Temp\\tmpq_9pfv4e.wav'
+2025-03-30 23:34:58,405 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 23:35:03,320 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 23:35:07,519 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 23:35:16,734 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 23:37:09,649 - FocusGuard - INFO - Focus monitoring started
+2025-03-30 23:37:13,682 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 23:37:31,869 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 23:37:41,482 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 23:37:50,700 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 23:38:00,554 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 23:38:10,218 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 23:38:20,877 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 23:38:30,243 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 23:38:40,973 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 23:38:51,008 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 23:38:59,378 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 23:39:08,003 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 23:39:17,169 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 23:39:27,119 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 23:39:35,661 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 23:39:55,556 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 23:40:04,713 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 23:40:14,192 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 23:40:24,661 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 23:40:35,085 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 23:40:44,252 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 23:40:54,173 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 23:41:00,994 - FocusGuard - ERROR - Error in monitoring loop: (3221225786, 'ObjectCache(00007ff889836600)::~ObjectCache(): WARNING! LEAK! object 0000017e758f5f60 still has count 1 (id C:\\Program Files\\Tesseract-OCR/tessdata/eng.traineddatalstm-punc-dawg) ObjectCache(00007ff889836600)::~ObjectCache(): WARNING! LEAK! object 0000017e74f6eda0 still has count 1 (id C:\\Program Files\\Tesseract-OCR/tessdata/eng.traineddatalstm-word-dawg) ObjectCache(00007ff889836600)::~ObjectCache(): WARNING! LEAK! object 0000017e74f6ed30 still has count 1 (id C:\\Program Files\\Tesseract-OCR/tessdata/eng.traineddatalstm-number-dawg)')
+2025-03-31 00:15:24,504 - root - INFO - Set configuration: CheckInterval=10
+2025-03-31 00:15:24,505 - root - INFO - Set configuration: StartWithWindows=0
+2025-03-31 00:15:24,505 - root - INFO - Set configuration: BlockedSites=facebook.com,twitter.com,instagram.com,reddit.com,youtube.com
+2025-03-31 00:15:24,505 - root - INFO - Configuration manager initialized
+2025-03-31 00:15:24,505 - root - INFO - Initialized Windows browser controller
+2025-03-31 00:15:24,506 - root - INFO - Initialized Windows voice alert system
+2025-03-31 00:15:24,508 - root - WARNING - Running without admin privileges. Some functions may be limited.
+2025-03-31 00:15:24,508 - root - INFO - Initialized intervention manager
+2025-03-31 00:15:24,509 - root - INFO - Loaded configuration from registry
+2025-03-31 00:15:24,512 - root - INFO - Activity tracker initialized
+2025-03-31 00:15:24,513 - root - INFO - FocusGuard initialized
+2025-03-31 00:15:24,514 - root - INFO - Activity tracking started
+2025-03-31 00:15:24,518 - root - ERROR - Failed to create system tray icon: No module named 'pystray'
+2025-03-31 00:15:24,519 - root - INFO - Running without system tray icon
+2025-03-31 00:15:24,519 - root - INFO - FocusGuard started
+2025-03-31 00:16:00,295 - root - INFO - FocusGuard terminated by user
+2025-03-31 00:16:00,296 - root - INFO - Activity tracking stopped
+2025-03-31 00:16:00,296 - root - INFO - Intervention manager cleanup complete
+2025-03-31 00:16:00,297 - root - INFO - Activity tracker cleanup complete
+2025-03-31 00:16:00,298 - root - INFO - FocusGuard stopped
+2025-03-31 00:19:14,469 - root - INFO - Configuration manager initialized
+2025-03-31 00:19:14,470 - root - INFO - Initialized Windows browser controller
+2025-03-31 00:19:14,470 - root - INFO - Initialized Windows voice alert system
+2025-03-31 00:19:14,473 - root - WARNING - Running without admin privileges. Some functions may be limited.
+2025-03-31 00:19:14,473 - root - INFO - Initialized intervention manager
+2025-03-31 00:19:14,474 - root - INFO - Loaded configuration from registry
+2025-03-31 00:19:14,474 - root - INFO - Activity tracker initialized
+2025-03-31 00:19:14,474 - root - INFO - FocusGuard initialized
+2025-03-31 00:19:14,475 - root - INFO - Activity tracking started
+2025-03-31 00:19:14,477 - root - ERROR - Failed to create system tray icon: No module named 'pystray'
+2025-03-31 00:19:14,477 - root - INFO - Running without system tray icon
+2025-03-31 00:19:14,480 - root - INFO - FocusGuard started
+2025-03-31 00:19:30,936 - root - INFO - Configuration manager initialized
+2025-03-31 00:19:30,936 - root - INFO - Initialized Windows browser controller
+2025-03-31 00:19:30,937 - root - INFO - Initialized Windows voice alert system
+2025-03-31 00:19:30,937 - root - WARNING - Running without admin privileges. Some functions may be limited.
+2025-03-31 00:19:30,937 - root - INFO - Initialized intervention manager
+2025-03-31 00:19:30,938 - root - INFO - Loaded configuration from registry
+2025-03-31 00:19:30,939 - root - INFO - Activity tracker initialized
+2025-03-31 00:19:30,939 - root - INFO - FocusGuard initialized
+2025-03-31 00:19:30,940 - root - INFO - Initialized Windows browser controller
+2025-03-31 00:19:30,941 - root - INFO - Initialized Windows voice alert system
+2025-03-31 00:19:30,941 - root - WARNING - Running without admin privileges. Some functions may be limited.
+2025-03-31 00:19:30,941 - root - INFO - Initialized intervention manager
+2025-03-31 00:19:30,942 - root - INFO - Loaded configuration from registry
+2025-03-31 00:19:30,942 - root - INFO - Activity tracker initialized
+2025-03-31 00:21:23,681 - root - INFO - FocusGuard terminated by user
+2025-03-31 00:21:23,681 - root - INFO - Activity tracking stopped
+2025-03-31 00:21:23,681 - root - INFO - Intervention manager cleanup complete
+2025-03-31 00:21:23,681 - root - INFO - Activity tracker cleanup complete
+2025-03-31 00:21:23,683 - root - INFO - FocusGuard stopped
+2025-03-31 00:21:28,941 - root - INFO - Configuration manager initialized
+2025-03-31 00:21:28,942 - root - INFO - Initialized Windows browser controller
+2025-03-31 00:21:28,942 - root - INFO - Initialized Windows voice alert system
+2025-03-31 00:21:28,945 - root - WARNING - Running without admin privileges. Some functions may be limited.
+2025-03-31 00:21:28,945 - root - INFO - Initialized intervention manager
+2025-03-31 00:21:28,946 - root - INFO - Loaded configuration from registry
+2025-03-31 00:21:28,946 - root - INFO - Activity tracker initialized
+2025-03-31 00:21:28,946 - root - INFO - FocusGuard initialized
+2025-03-31 00:21:28,947 - root - INFO - Activity tracking started
+2025-03-31 00:21:28,950 - root - ERROR - Failed to create system tray icon: No module named 'pystray'
+2025-03-31 00:21:28,950 - root - INFO - Running without system tray icon
+2025-03-31 00:21:28,950 - root - INFO - FocusGuard started
+2025-03-31 00:21:36,146 - root - INFO - Configuration manager initialized
+2025-03-31 00:21:36,147 - root - INFO - Initialized Windows browser controller
+2025-03-31 00:21:36,147 - root - INFO - Initialized Windows voice alert system
+2025-03-31 00:21:36,147 - root - WARNING - Running without admin privileges. Some functions may be limited.
+2025-03-31 00:21:36,148 - root - INFO - Initialized intervention manager
+2025-03-31 00:21:36,148 - root - INFO - Loaded configuration from registry
+2025-03-31 00:21:36,149 - root - INFO - Activity tracker initialized
+2025-03-31 00:21:36,149 - root - INFO - FocusGuard initialized
+2025-03-31 00:21:36,150 - root - INFO - Initialized Windows browser controller
+2025-03-31 00:21:36,150 - root - INFO - Initialized Windows voice alert system
+2025-03-31 00:21:36,151 - root - WARNING - Running without admin privileges. Some functions may be limited.
+2025-03-31 00:21:36,151 - root - INFO - Initialized intervention manager
+2025-03-31 00:21:36,151 - root - INFO - Loaded configuration from registry
+2025-03-31 00:21:36,152 - root - INFO - Activity tracker initialized
+2025-03-31 00:21:46,751 - root - INFO - Configuration manager initialized
+2025-03-31 00:21:46,753 - root - INFO - Initialized Windows browser controller
+2025-03-31 00:21:46,756 - root - INFO - Initialized Windows voice alert system
+2025-03-31 00:21:46,758 - root - WARNING - Running without admin privileges. Some functions may be limited.
+2025-03-31 00:21:46,759 - root - INFO - Initialized intervention manager
+2025-03-31 00:21:46,761 - root - INFO - Loaded configuration from registry
+2025-03-31 00:21:46,762 - root - INFO - Activity tracker initialized
+2025-03-31 00:21:46,764 - root - INFO - FocusGuard initialized
+2025-03-31 00:21:46,767 - root - INFO - Initialized Windows browser controller
+2025-03-31 00:21:46,767 - root - INFO - Initialized Windows voice alert system
+2025-03-31 00:21:46,768 - root - WARNING - Running without admin privileges. Some functions may be limited.
+2025-03-31 00:21:46,768 - root - INFO - Initialized intervention manager
+2025-03-31 00:21:46,770 - root - INFO - Loaded configuration from registry
+2025-03-31 00:21:46,771 - root - INFO - Activity tracker initialized
+2025-03-31 00:21:50,146 - root - INFO - Configuration manager initialized
+2025-03-31 00:21:50,147 - root - INFO - Initialized Windows browser controller
+2025-03-31 00:21:50,149 - root - INFO - Initialized Windows voice alert system
+2025-03-31 00:21:50,149 - root - WARNING - Running without admin privileges. Some functions may be limited.
+2025-03-31 00:21:50,151 - root - INFO - Initialized intervention manager
+2025-03-31 00:21:50,152 - root - INFO - Loaded configuration from registry
+2025-03-31 00:21:50,152 - root - INFO - Activity tracker initialized
+2025-03-31 00:21:50,153 - root - INFO - FocusGuard initialized
+2025-03-31 00:21:50,155 - root - INFO - Initialized Windows browser controller
+2025-03-31 00:21:50,155 - root - INFO - Initialized Windows voice alert system
+2025-03-31 00:21:50,156 - root - WARNING - Running without admin privileges. Some functions may be limited.
+2025-03-31 00:21:50,156 - root - INFO - Initialized intervention manager
+2025-03-31 00:21:50,158 - root - INFO - Loaded configuration from registry
+2025-03-31 00:21:50,160 - root - INFO - Activity tracker initialized
+2025-03-31 00:21:59,538 - root - INFO - FocusGuard terminated by user
+2025-03-31 00:21:59,539 - root - INFO - Activity tracking stopped
+2025-03-31 00:21:59,540 - root - INFO - Intervention manager cleanup complete
+2025-03-31 00:21:59,540 - root - INFO - Activity tracker cleanup complete
+2025-03-31 00:21:59,541 - root - INFO - FocusGuard stopped
+2025-03-31 00:22:03,640 - root - INFO - Configuration manager initialized
+2025-03-31 00:22:03,641 - root - INFO - Initialized Windows browser controller
+2025-03-31 00:22:03,641 - root - INFO - Initialized Windows voice alert system
+2025-03-31 00:22:03,642 - root - WARNING - Running without admin privileges. Some functions may be limited.
+2025-03-31 00:22:03,642 - root - INFO - Initialized intervention manager
+2025-03-31 00:22:03,645 - root - INFO - Loaded configuration from registry
+2025-03-31 00:22:03,645 - root - INFO - Activity tracker initialized
+2025-03-31 00:22:03,645 - root - INFO - FocusGuard initialized
+2025-03-31 00:22:03,647 - root - INFO - Initialized Windows browser controller
+2025-03-31 00:22:03,647 - root - INFO - Initialized Windows voice alert system
+2025-03-31 00:22:03,649 - root - WARNING - Running without admin privileges. Some functions may be limited.
+2025-03-31 00:22:03,649 - root - INFO - Initialized intervention manager
+2025-03-31 00:22:03,650 - root - INFO - Loaded configuration from registry
+2025-03-31 00:22:03,651 - root - INFO - Activity tracker initialized
+2025-03-31 00:22:07,362 - root - INFO - Configuration manager initialized
+2025-03-31 00:22:07,362 - root - INFO - Initialized Windows browser controller
+2025-03-31 00:22:07,363 - root - INFO - Initialized Windows voice alert system
+2025-03-31 00:22:07,363 - root - WARNING - Running without admin privileges. Some functions may be limited.
+2025-03-31 00:22:07,364 - root - INFO - Initialized intervention manager
+2025-03-31 00:22:07,365 - root - INFO - Loaded configuration from registry
+2025-03-31 00:22:07,365 - root - INFO - Activity tracker initialized
+2025-03-31 00:22:07,365 - root - INFO - FocusGuard initialized
+2025-03-31 00:22:07,366 - root - INFO - Initialized Windows browser controller
+2025-03-31 00:22:07,366 - root - INFO - Initialized Windows voice alert system
+2025-03-31 00:22:07,366 - root - WARNING - Running without admin privileges. Some functions may be limited.
+2025-03-31 00:22:07,367 - root - INFO - Initialized intervention manager
+2025-03-31 00:22:07,367 - root - INFO - Loaded configuration from registry
+2025-03-31 00:22:07,367 - root - INFO - Activity tracker initialized
+2025-03-31 00:22:22,887 - root - INFO - Configuration manager initialized
+2025-03-31 00:22:22,888 - root - INFO - Initialized Windows browser controller
+2025-03-31 00:22:22,889 - root - INFO - Initialized Windows voice alert system
+2025-03-31 00:22:22,890 - root - WARNING - Running without admin privileges. Some functions may be limited.
+2025-03-31 00:22:22,890 - root - INFO - Initialized intervention manager
+2025-03-31 00:22:22,891 - root - INFO - Loaded configuration from registry
+2025-03-31 00:22:22,891 - root - INFO - Activity tracker initialized
+2025-03-31 00:22:22,891 - root - INFO - FocusGuard initialized
+2025-03-31 00:22:22,893 - root - INFO - Initialized Windows browser controller
+2025-03-31 00:22:22,894 - root - INFO - Initialized Windows voice alert system
+2025-03-31 00:22:22,894 - root - WARNING - Running without admin privileges. Some functions may be limited.
+2025-03-31 00:22:22,894 - root - INFO - Initialized intervention manager
+2025-03-31 00:22:22,895 - root - INFO - Loaded configuration from registry
+2025-03-31 00:22:22,895 - root - INFO - Activity tracker initialized
+2025-03-31 00:24:28,242 - root - INFO - Configuration manager initialized
+2025-03-31 00:24:28,243 - root - INFO - Initialized Windows browser controller
+2025-03-31 00:24:28,244 - root - INFO - Initialized Windows voice alert system
+2025-03-31 00:24:28,246 - root - WARNING - Running without admin privileges. Some functions may be limited.
+2025-03-31 00:24:28,246 - root - INFO - Initialized intervention manager
+2025-03-31 00:24:28,252 - root - INFO - Loaded configuration from registry
+2025-03-31 00:24:28,253 - root - INFO - Activity tracker initialized
+2025-03-31 00:24:28,254 - root - INFO - FocusGuard initialized
+2025-03-31 00:24:28,257 - root - INFO - Initialized Windows browser controller
+2025-03-31 00:24:28,257 - root - INFO - Initialized Windows voice alert system
+2025-03-31 00:24:28,261 - root - WARNING - Running without admin privileges. Some functions may be limited.
+2025-03-31 00:24:28,262 - root - INFO - Initialized intervention manager
+2025-03-31 00:24:28,263 - root - INFO - Loaded configuration from registry
+2025-03-31 00:24:28,264 - root - INFO - Activity tracker initialized
+2025-03-31 00:25:28,117 - root - INFO - Configuration manager initialized
+2025-03-31 00:25:28,118 - root - INFO - Initialized Windows browser controller
+2025-03-31 00:25:28,119 - root - INFO - Initialized Windows voice alert system
+2025-03-31 00:25:28,119 - root - WARNING - Running without admin privileges. Some functions may be limited.
+2025-03-31 00:25:28,120 - root - INFO - Initialized intervention manager
+2025-03-31 00:25:28,120 - root - INFO - Loaded configuration from registry
+2025-03-31 00:25:28,121 - root - INFO - Activity tracker initialized
+2025-03-31 00:25:28,121 - root - INFO - FocusGuard initialized
+2025-03-31 00:25:28,124 - root - INFO - Initialized Windows browser controller
+2025-03-31 00:25:28,124 - root - INFO - Initialized Windows voice alert system
+2025-03-31 00:25:28,125 - root - WARNING - Running without admin privileges. Some functions may be limited.
+2025-03-31 00:25:28,126 - root - INFO - Initialized intervention manager
+2025-03-31 00:25:28,126 - root - INFO - Loaded configuration from registry
+2025-03-31 00:25:28,128 - root - INFO - Activity tracker initialized
+2025-03-31 00:26:52,820 - root - INFO - Configuration manager initialized
+2025-03-31 00:26:52,821 - root - INFO - Initialized Windows browser controller
+2025-03-31 00:26:52,823 - root - INFO - Initialized Windows voice alert system
+2025-03-31 00:26:52,825 - root - WARNING - Running without admin privileges. Some functions may be limited.
+2025-03-31 00:26:52,829 - root - INFO - Initialized intervention manager
+2025-03-31 00:26:52,831 - root - INFO - Loaded configuration from registry
+2025-03-31 00:26:52,834 - root - INFO - Activity tracker initialized
+2025-03-31 00:26:52,845 - root - INFO - FocusGuard initialized
+2025-03-31 00:26:52,885 - root - INFO - Initialized Windows browser controller
+2025-03-31 00:26:52,886 - root - INFO - Initialized Windows voice alert system
+2025-03-31 00:26:52,901 - root - WARNING - Running without admin privileges. Some functions may be limited.
+2025-03-31 00:26:52,908 - root - INFO - Initialized intervention manager
+2025-03-31 00:26:52,916 - root - INFO - Loaded configuration from registry
+2025-03-31 00:26:53,035 - root - INFO - Activity tracker initialized
+2025-03-31 00:30:23,932 - root - INFO - Configuration manager initialized
+2025-03-31 00:30:23,933 - root - INFO - Initialized Windows browser controller
+2025-03-31 00:30:23,934 - root - INFO - Initialized Windows voice alert system
+2025-03-31 00:30:23,935 - root - WARNING - Running without admin privileges. Some functions may be limited.
+2025-03-31 00:30:23,935 - root - INFO - Initialized intervention manager
+2025-03-31 00:30:23,936 - root - INFO - Loaded configuration from registry
+2025-03-31 00:30:23,936 - root - INFO - Activity tracker initialized
+2025-03-31 00:30:23,937 - root - INFO - FocusGuard initialized
+2025-03-31 00:30:23,939 - root - INFO - Initialized Windows browser controller
+2025-03-31 00:30:23,940 - root - INFO - Initialized Windows voice alert system
+2025-03-31 00:30:23,941 - root - WARNING - Running without admin privileges. Some functions may be limited.
+2025-03-31 00:30:23,942 - root - INFO - Initialized intervention manager
+2025-03-31 00:30:23,943 - root - INFO - Loaded configuration from registry
+2025-03-31 00:30:23,944 - root - INFO - Activity tracker initialized
+2025-03-31 00:33:11,445 - root - INFO - Configuration manager initialized
+2025-03-31 00:33:11,453 - root - INFO - Initialized Windows browser controller
+2025-03-31 00:33:11,454 - root - INFO - Initialized Windows voice alert system
+2025-03-31 00:33:11,459 - root - WARNING - Running without admin privileges. Some functions may be limited.
+2025-03-31 00:33:11,460 - root - INFO - Initialized intervention manager
+2025-03-31 00:33:11,462 - root - INFO - Loaded configuration from registry
+2025-03-31 00:33:11,463 - root - INFO - Activity tracker initialized
+2025-03-31 00:33:11,464 - root - INFO - FocusGuard initialized
+2025-03-31 00:33:11,471 - root - INFO - Initialized Windows browser controller
+2025-03-31 00:33:11,472 - root - INFO - Initialized Windows voice alert system
+2025-03-31 00:33:11,472 - root - WARNING - Running without admin privileges. Some functions may be limited.
+2025-03-31 00:33:11,473 - root - INFO - Initialized intervention manager
+2025-03-31 00:33:11,474 - root - INFO - Loaded configuration from registry
+2025-03-31 00:33:11,475 - root - INFO - Activity tracker initialized
+2025-03-31 00:33:59,012 - root - INFO - Configuration manager initialized
+2025-03-31 00:33:59,014 - root - INFO - Initialized Windows browser controller
+2025-03-31 00:33:59,015 - root - INFO - Initialized Windows voice alert system
+2025-03-31 00:33:59,015 - root - WARNING - Running without admin privileges. Some functions may be limited.
+2025-03-31 00:33:59,016 - root - INFO - Initialized intervention manager
+2025-03-31 00:33:59,017 - root - INFO - Loaded configuration from registry
+2025-03-31 00:33:59,018 - root - INFO - Activity tracker initialized
+2025-03-31 00:33:59,019 - root - INFO - FocusGuard initialized
+2025-03-31 00:33:59,022 - root - INFO - Initialized Windows browser controller
+2025-03-31 00:33:59,023 - root - INFO - Initialized Windows voice alert system
+2025-03-31 00:33:59,024 - root - WARNING - Running without admin privileges. Some functions may be limited.
+2025-03-31 00:33:59,025 - root - INFO - Initialized intervention manager
+2025-03-31 00:33:59,031 - root - INFO - Loaded configuration from registry
+2025-03-31 00:33:59,032 - root - INFO - Activity tracker initialized
+2025-03-31 00:35:12,604 - root - INFO - Configuration manager initialized
+2025-03-31 00:35:12,605 - root - INFO - Initialized Windows browser controller
+2025-03-31 00:35:12,606 - root - INFO - Initialized Windows voice alert system
+2025-03-31 00:35:12,607 - root - WARNING - Running without admin privileges. Some functions may be limited.
+2025-03-31 00:35:12,608 - root - INFO - Initialized intervention manager
+2025-03-31 00:35:12,609 - root - INFO - Loaded configuration from registry
+2025-03-31 00:35:12,610 - root - INFO - Activity tracker initialized
+2025-03-31 00:35:12,613 - root - INFO - FocusGuard initialized
+2025-03-31 00:35:12,615 - root - INFO - Initialized Windows browser controller
+2025-03-31 00:35:12,615 - root - INFO - Initialized Windows voice alert system
+2025-03-31 00:35:12,617 - root - WARNING - Running without admin privileges. Some functions may be limited.
+2025-03-31 00:35:12,617 - root - INFO - Initialized intervention manager
+2025-03-31 00:35:12,618 - root - INFO - Loaded configuration from registry
+2025-03-31 00:35:12,619 - root - INFO - Activity tracker initialized
+2025-03-31 00:35:38,135 - root - INFO - Configuration manager initialized
+2025-03-31 00:35:38,136 - root - INFO - Initialized Windows browser controller
+2025-03-31 00:35:38,136 - root - INFO - Initialized Windows voice alert system
+2025-03-31 00:35:38,137 - root - WARNING - Running without admin privileges. Some functions may be limited.
+2025-03-31 00:35:38,137 - root - INFO - Initialized intervention manager
+2025-03-31 00:35:38,139 - root - INFO - Loaded configuration from registry
+2025-03-31 00:35:38,139 - root - INFO - Activity tracker initialized
+2025-03-31 00:35:38,139 - root - INFO - FocusGuard initialized
+2025-03-31 00:35:38,140 - root - INFO - Activity tracking started
+2025-03-31 00:35:38,141 - root - ERROR - Failed to create system tray icon: No module named 'pystray'
+2025-03-31 00:35:38,143 - root - INFO - Running without system tray icon
+2025-03-31 00:35:38,143 - root - INFO - FocusGuard started
+2025-03-31 00:35:54,378 - root - INFO - FocusGuard terminated by user
+2025-03-31 00:35:54,378 - root - INFO - Activity tracking stopped
+2025-03-31 00:35:54,379 - root - INFO - Intervention manager cleanup complete
+2025-03-31 00:35:54,379 - root - INFO - Activity tracker cleanup complete
+2025-03-31 00:35:54,379 - root - INFO - FocusGuard stopped
+2025-03-31 00:36:12,596 - root - INFO - Configuration manager initialized
+2025-03-31 00:36:12,597 - root - INFO - Initialized Windows browser controller
+2025-03-31 00:36:12,597 - root - INFO - Initialized Windows voice alert system
+2025-03-31 00:36:12,598 - root - WARNING - Running without admin privileges. Some functions may be limited.
+2025-03-31 00:36:12,599 - root - INFO - Initialized intervention manager
+2025-03-31 00:36:12,600 - root - INFO - Loaded configuration from registry
+2025-03-31 00:36:12,600 - root - INFO - Activity tracker initialized
+2025-03-31 00:36:12,600 - root - INFO - FocusGuard initialized
+2025-03-31 00:36:12,601 - root - INFO - Activity tracking started
+2025-03-31 00:36:12,617 - root - INFO - System tray icon created
+2025-03-31 00:36:12,617 - root - INFO - FocusGuard started
+2025-03-31 00:36:18,082 - root - INFO - FocusGuard terminated by user
+2025-03-31 00:36:18,082 - root - INFO - Activity tracking stopped
+2025-03-31 00:36:18,082 - root - INFO - Intervention manager cleanup complete
+2025-03-31 00:36:18,083 - root - INFO - Activity tracker cleanup complete
+2025-03-31 00:36:18,083 - root - INFO - FocusGuard stopped
+2025-03-31 00:36:30,346 - root - INFO - Configuration manager initialized
+2025-03-31 00:36:30,348 - root - INFO - Initialized Windows browser controller
+2025-03-31 00:36:30,349 - root - INFO - Initialized Windows voice alert system
+2025-03-31 00:36:30,349 - root - WARNING - Running without admin privileges. Some functions may be limited.
+2025-03-31 00:36:30,350 - root - INFO - Initialized intervention manager
+2025-03-31 00:36:30,351 - root - INFO - Loaded configuration from registry
+2025-03-31 00:36:30,352 - root - INFO - Activity tracker initialized
+2025-03-31 00:36:30,353 - root - INFO - FocusGuard initialized
+2025-03-31 00:36:30,356 - root - INFO - Initialized Windows browser controller
+2025-03-31 00:36:30,357 - root - INFO - Initialized Windows voice alert system
+2025-03-31 00:36:30,359 - root - WARNING - Running without admin privileges. Some functions may be limited.
+2025-03-31 00:36:30,359 - root - INFO - Initialized intervention manager
+2025-03-31 00:36:30,361 - root - INFO - Loaded configuration from registry
+2025-03-31 00:36:30,364 - root - INFO - Activity tracker initialized
+2025-03-31 00:37:59,306 - root - INFO - Configuration manager initialized
+2025-03-31 00:37:59,308 - root - INFO - Initialized Windows browser controller
+2025-03-31 00:37:59,309 - root - INFO - Initialized Windows voice alert system
+2025-03-31 00:37:59,310 - root - WARNING - Running without admin privileges. Some functions may be limited.
+2025-03-31 00:37:59,310 - root - INFO - Initialized intervention manager
+2025-03-31 00:37:59,313 - root - INFO - Loaded configuration from registry
+2025-03-31 00:37:59,314 - root - INFO - Activity tracker initialized
+2025-03-31 00:37:59,314 - root - INFO - FocusGuard initialized
+2025-03-31 00:37:59,317 - root - INFO - Initialized Windows browser controller
+2025-03-31 00:37:59,318 - root - INFO - Initialized Windows voice alert system
+2025-03-31 00:37:59,319 - root - WARNING - Running without admin privileges. Some functions may be limited.
+2025-03-31 00:37:59,319 - root - INFO - Initialized intervention manager
+2025-03-31 00:37:59,321 - root - INFO - Loaded configuration from registry
+2025-03-31 00:37:59,322 - root - INFO - Activity tracker initialized
+2025-03-31 00:45:40,240 - root - INFO - Configuration manager initialized
+2025-03-31 00:45:40,241 - root - INFO - Initialized Windows browser controller
+2025-03-31 00:45:40,241 - root - INFO - Initialized Windows voice alert system
+2025-03-31 00:45:40,241 - root - WARNING - Running without admin privileges. Some functions may be limited.
+2025-03-31 00:45:40,242 - root - INFO - Initialized intervention manager
+2025-03-31 00:45:40,242 - root - INFO - Loaded configuration from registry
+2025-03-31 00:45:40,243 - root - INFO - Activity tracker initialized
+2025-03-31 00:45:40,243 - root - INFO - FocusGuard initialized
+2025-03-31 00:45:40,243 - root - INFO - Initialized Windows browser controller
+2025-03-31 00:45:40,245 - root - INFO - Initialized Windows voice alert system
+2025-03-31 00:45:40,245 - root - WARNING - Running without admin privileges. Some functions may be limited.
+2025-03-31 00:45:40,245 - root - INFO - Initialized intervention manager
+2025-03-31 00:45:40,246 - root - INFO - Loaded configuration from registry
+2025-03-31 00:45:40,246 - root - INFO - Activity tracker initialized
+2025-03-31 00:47:44,822 - FocusGuard - INFO - Focus monitoring started
+2025-03-31 00:47:49,156 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 00:47:57,169 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 00:48:06,336 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 00:48:13,255 - FocusGuard - ERROR - Error in monitoring loop: (3221225786, 'ObjectCache(00007ff88afa6600)::~ObjectCache(): WARNING! LEAK! object 000001cf4fc25f60 still has count 1 (id C:\\Program Files\\Tesseract-OCR/tessdata/eng.traineddatalstm-punc-dawg) ObjectCache(00007ff88afa6600)::~ObjectCache(): WARNING! LEAK! object 000001cf4f26eda0 still has count 1 (id C:\\Program Files\\Tesseract-OCR/tessdata/eng.traineddatalstm-word-dawg) ObjectCache(00007ff88afa6600)::~ObjectCache(): WARNING! LEAK! object 000001cf4f26ed30 still has count 1 (id C:\\Program Files\\Tesseract-OCR/tessdata/eng.traineddatalstm-number-dawg)')
+2025-03-31 00:52:02,707 - FocusGuard - INFO - Focus monitoring started
+2025-03-31 00:52:05,624 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 00:52:31,339 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 00:52:53,912 - FocusGuard - INFO - Voice alert triggered
+2025-03-31 00:52:53,918 - FocusGuard - ERROR - Failed to play sound: [Errno 13] Permission denied: 'C:\\Users\\LikhitChirmade\\AppData\\Local\\Temp\\tmpj_lo3b76.wav'
+2025-03-31 00:52:54,617 - FocusGuard - INFO - Attempted to close tab containing instagram.com using keyboard shortcut
+2025-03-31 00:52:58,763 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 00:53:07,991 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 00:53:25,575 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 00:53:32,924 - FocusGuard - ERROR - Error in monitoring loop: (3221225786, 'ObjectCache(00007ff851e16600)::~ObjectCache(): WARNING! LEAK! object 0000016992a25f60 still has count 1 (id C:\\Program Files\\Tesseract-OCR/tessdata/eng.traineddatalstm-punc-dawg) ObjectCache(00007ff851e16600)::~ObjectCache(): WARNING! LEAK! object 000001699202eda0 still has count 1 (id C:\\Program Files\\Tesseract-OCR/tessdata/eng.traineddatalstm-word-dawg) ObjectCache(00007ff851e16600)::~ObjectCache(): WARNING! LEAK! object 000001699202ed30 still has count 1 (id C:\\Program Files\\Tesseract-OCR/tessdata/eng.traineddatalstm-number-dawg)')
+2025-03-31 00:53:41,319 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 00:53:48,657 - FocusGuard - ERROR - Error in monitoring loop: (3221225786, 'ObjectCache(00007ff851e16600)::~ObjectCache(): WARNING! LEAK! object 0000029904075f60 still has count 1 (id C:\\Program Files\\Tesseract-OCR/tessdata/eng.traineddatalstm-punc-dawg) ObjectCache(00007ff851e16600)::~ObjectCache(): WARNING! LEAK! object 00000299036eeda0 still has count 1 (id C:\\Program Files\\Tesseract-OCR/tessdata/eng.traineddatalstm-word-dawg) ObjectCache(00007ff851e16600)::~ObjectCache(): WARNING! LEAK! object 00000299036eed30 still has count 1 (id C:\\Program Files\\Tesseract-OCR/tessdata/eng.traineddatalstm-number-dawg)')
+2025-03-31 00:54:24,826 - FocusGuard - INFO - Focus monitoring started
+2025-03-31 00:54:27,674 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 00:54:58,931 - FocusGuard - INFO - Voice alert triggered
+2025-03-31 00:54:58,945 - FocusGuard - ERROR - Failed to play sound: [Errno 13] Permission denied: 'C:\\Users\\LikhitChirmade\\AppData\\Local\\Temp\\tmp6nazr865.wav'
+2025-03-31 00:54:59,639 - FocusGuard - INFO - Attempted to close tab containing netflix.com using keyboard shortcut
+2025-03-31 00:55:04,474 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 00:55:12,851 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 00:55:21,588 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 00:55:21,590 - FocusGuard - INFO - Focus monitoring stopped
+2025-03-31 00:55:35,279 - FocusGuard - INFO - Focus monitoring started
+2025-03-31 00:55:37,902 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 00:57:02,077 - FocusGuard - INFO - Voice alert triggered
+2025-03-31 00:57:02,084 - FocusGuard - ERROR - Failed to play sound: [Errno 13] Permission denied: 'C:\\Users\\LikhitChirmade\\AppData\\Local\\Temp\\tmpe44bgqke.wav'
+2025-03-31 00:57:02,783 - FocusGuard - INFO - Attempted to close tab containing instagram.com using keyboard shortcut
+2025-03-31 00:57:07,417 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 00:57:09,802 - FocusGuard - INFO - Focus monitoring stopped
+2025-03-31 00:57:15,834 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 01:00:00,742 - FocusGuard - INFO - Focus monitoring started
+2025-03-31 01:00:03,808 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 01:00:34,249 - FocusGuard - INFO - Voice alert triggered
+2025-03-31 01:00:34,259 - FocusGuard - ERROR - Failed to play sound: [Errno 13] Permission denied: 'C:\\Users\\LikhitChirmade\\AppData\\Local\\Temp\\tmpkigissxc.wav'
+2025-03-31 01:00:34,955 - FocusGuard - INFO - Attempted to close tab containing instagram.com using keyboard shortcut
+2025-03-31 01:00:56,671 - FocusGuard - INFO - Focus monitoring stopped
+2025-03-31 01:00:57,945 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 01:01:14,010 - FocusGuard - INFO - Focus monitoring started
+2025-03-31 01:01:16,999 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 01:01:47,822 - FocusGuard - INFO - Voice alert triggered
+2025-03-31 01:01:47,830 - FocusGuard - ERROR - Failed to play sound: [Errno 13] Permission denied: 'C:\\Users\\LikhitChirmade\\AppData\\Local\\Temp\\tmp2607sq2q.wav'
+2025-03-31 01:01:48,528 - FocusGuard - INFO - Attempted to close tab containing instagram.com using keyboard shortcut
+2025-03-31 01:01:54,408 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 01:02:12,204 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 01:02:20,943 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 01:02:39,907 - FocusGuard - INFO - Focus monitoring started
+2025-03-31 01:02:43,554 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 01:02:51,499 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 01:02:55,288 - FocusGuard - INFO - Focus monitoring started
+2025-03-31 01:02:58,068 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 01:03:00,052 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 01:03:26,982 - FocusGuard - ERROR - Error in monitoring loop: 'ToastNotifier' object has no attribute 'classAtom'
+2025-03-31 01:03:32,869 - FocusGuard - INFO - Voice alert triggered
+2025-03-31 01:03:32,903 - FocusGuard - ERROR - Failed to play sound: [Errno 13] Permission denied: 'C:\\Users\\LikhitChirmade\\AppData\\Local\\Temp\\tmpwztg0sfq.wav'
+2025-03-31 01:03:33,580 - FocusGuard - INFO - Attempted to close tab containing netflix.com using keyboard shortcut
+2025-03-31 01:03:39,339 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 01:03:39,427 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 01:03:47,355 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 01:03:48,102 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 01:03:56,152 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 01:03:56,622 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 01:04:05,081 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 01:04:05,918 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 01:04:07,983 - FocusGuard - INFO - Focus monitoring stopped
+2025-03-31 01:04:14,019 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 01:04:14,629 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 01:04:16,106 - FocusGuard - INFO - Focus monitoring started
+2025-03-31 01:04:19,791 - FocusGuard - INFO - Focus monitoring stopped
+2025-03-31 01:04:23,111 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 01:04:23,723 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 01:04:27,730 - FocusGuard - INFO - Focus monitoring started
+2025-03-31 01:04:31,937 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 01:04:31,940 - FocusGuard - INFO - Focus monitoring stopped
+2025-03-31 01:04:32,442 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 01:04:40,502 - FocusGuard - INFO - Focus monitoring started
+2025-03-31 01:04:41,631 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 01:04:43,215 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 01:04:43,218 - FocusGuard - INFO - Focus monitoring stopped
+2025-03-31 01:04:50,379 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 01:05:08,171 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 01:05:18,730 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 01:05:29,609 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 01:05:38,527 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 01:05:47,454 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 01:05:56,185 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 01:06:05,013 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 01:06:13,867 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 01:06:21,143 - FocusGuard - ERROR - Error in monitoring loop: (3221225786, 'ObjectCache(00007ff864896600)::~ObjectCache(): WARNING! LEAK! object 0000022fc98d5f60 still has count 1 (id C:\\Program Files\\Tesseract-OCR/tessdata/eng.traineddatalstm-punc-dawg) ObjectCache(00007ff864896600)::~ObjectCache(): WARNING! LEAK! object 0000022fc8f4eda0 still has count 1 (id C:\\Program Files\\Tesseract-OCR/tessdata/eng.traineddatalstm-word-dawg) ObjectCache(00007ff864896600)::~ObjectCache(): WARNING! LEAK! object 0000022fc8f4ed30 still has count 1 (id C:\\Program Files\\Tesseract-OCR/tessdata/eng.traineddatalstm-number-dawg)')
+2025-03-31 07:09:40,767 - FocusGuard - INFO - Focus monitoring started
+2025-03-31 07:09:43,975 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:09:54,862 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:10:01,320 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:10:10,360 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:10:44,062 - FocusGuard - INFO - Voice alert triggered
+2025-03-31 07:10:44,132 - FocusGuard - ERROR - Failed to play sound: [Errno 13] Permission denied: 'C:\\Users\\LikhitChirmade\\AppData\\Local\\Temp\\tmp2mguao5r.wav'
+2025-03-31 07:10:47,255 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:11:05,403 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:11:14,722 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:11:31,865 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:11:40,976 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:11:50,016 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:11:58,790 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:12:16,689 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:12:25,571 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:12:45,408 - FocusGuard - INFO - Focus monitoring stopped
+2025-03-31 07:12:52,108 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:16:15,148 - FocusGuard - INFO - Focus monitoring started
+2025-03-31 07:16:18,329 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:16:25,335 - FocusGuard - INFO - Focus monitoring started
+2025-03-31 07:16:27,141 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:16:35,065 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:16:36,089 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:16:54,111 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:16:54,122 - FocusGuard - ERROR - Error in monitoring loop: 'ToastNotifier' object has no attribute 'classAtom'
+2025-03-31 07:16:56,560 - FocusGuard - INFO - Voice alert triggered
+2025-03-31 07:16:56,564 - FocusGuard - ERROR - Failed to play sound: [Errno 13] Permission denied: 'C:\\Users\\LikhitChirmade\\AppData\\Local\\Temp\\tmpkzqx8dre.wav'
+2025-03-31 07:17:06,636 - FocusGuard - INFO - Voice alert triggered
+2025-03-31 07:17:06,642 - FocusGuard - ERROR - Failed to play sound: [Errno 13] Permission denied: 'C:\\Users\\LikhitChirmade\\AppData\\Local\\Temp\\tmppp37j0rh.wav'
+2025-03-31 07:17:10,057 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:17:36,422 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:17:37,673 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:17:46,454 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:17:46,785 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:17:54,609 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:17:55,714 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:17:58,247 - FocusGuard - INFO - Focus monitoring stopped
+2025-03-31 07:18:03,317 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:18:04,463 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:18:11,791 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:18:12,799 - FocusGuard - INFO - Focus monitoring started
+2025-03-31 07:18:15,236 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:18:56,987 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:19:12,126 - FocusGuard - INFO - Voice alert triggered
+2025-03-31 07:19:12,145 - FocusGuard - ERROR - Failed to play sound: [Errno 13] Permission denied: 'C:\\Users\\LikhitChirmade\\AppData\\Local\\Temp\\tmp79abd1c4.wav'
+2025-03-31 07:19:12,833 - FocusGuard - INFO - Attempted to close tab containing netflix.com using keyboard shortcut
+2025-03-31 07:19:17,636 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:19:27,040 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:19:33,548 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:19:36,540 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:19:42,975 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:19:45,814 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:26:20,366 - FocusGuard - INFO - Focus monitoring started
+2025-03-31 07:26:23,423 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:26:31,558 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:26:40,582 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:26:49,595 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:27:07,789 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:27:17,484 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:27:26,412 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:27:36,024 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:27:45,041 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:27:54,227 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:28:03,747 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:28:13,332 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:28:22,386 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:28:29,978 - FocusGuard - ERROR - Error in monitoring loop: (3221225786, 'ObjectCache(00007ff8853a6600)::~ObjectCache(): WARNING! LEAK! object 00000209be695f60 still has count 1 (id C:\\Program Files\\Tesseract-OCR/tessdata/eng.traineddatalstm-punc-dawg) ObjectCache(00007ff8853a6600)::~ObjectCache(): WARNING! LEAK! object 00000209bdd1eda0 still has count 1 (id C:\\Program Files\\Tesseract-OCR/tessdata/eng.traineddatalstm-word-dawg) ObjectCache(00007ff8853a6600)::~ObjectCache(): WARNING! LEAK! object 00000209bdd1ed30 still has count 1 (id C:\\Program Files\\Tesseract-OCR/tessdata/eng.traineddatalstm-number-dawg)')
+2025-03-31 07:28:50,091 - FocusGuard - INFO - Focus monitoring started
+2025-03-31 07:28:52,955 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:29:03,319 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:29:10,128 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:29:36,794 - FocusGuard - ERROR - Playback failed: [Errno 13] Permission denied: 'C:\\Users\\LikhitChirmade\\AppData\\Local\\Temp\\tmp1uah1ddd.wav'
+2025-03-31 07:29:37,313 - FocusGuard - INFO - Attempted to close tab containing netflix.com using keyboard shortcut
+2025-03-31 07:29:46,979 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:29:56,778 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:30:14,983 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:30:33,718 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:30:44,020 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:30:52,351 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:31:02,066 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:31:13,537 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:31:18,706 - FocusGuard - INFO - Focus monitoring stopped
+2025-03-31 07:31:20,023 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:34:01,035 - FocusGuard - INFO - Focus monitoring started
+2025-03-31 07:34:04,026 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:34:29,040 - FocusGuard - ERROR - Playback failed: [Errno 13] Permission denied: 'C:\\Users\\LikhitChirmade\\AppData\\Local\\Temp\\tmpwmpr55dj.wav'
+2025-03-31 07:34:29,553 - FocusGuard - INFO - Attempted to close tab containing netflix.com using keyboard shortcut
+2025-03-31 07:34:42,382 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:34:49,871 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:34:59,594 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:35:08,961 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:35:18,353 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:35:27,959 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:35:37,734 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:35:56,688 - FocusGuard - INFO - Configuration updated
+2025-03-31 07:36:01,652 - FocusGuard - INFO - Focus monitoring started
+2025-03-31 07:36:04,473 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:36:29,810 - FocusGuard - ERROR - Voice alert system failed: name 'ThreadPoolExecutor' is not defined
+2025-03-31 07:36:30,520 - FocusGuard - INFO - Attempted to close tab containing netflix.com using keyboard shortcut
+2025-03-31 07:36:40,961 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:36:59,189 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:37:08,565 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:37:17,584 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:37:27,373 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:37:36,048 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:37:45,412 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:37:54,680 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:38:04,103 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:38:13,334 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:38:42,958 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:38:50,074 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:38:58,914 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:39:24,424 - FocusGuard - ERROR - Voice alert system failed: name 'ThreadPoolExecutor' is not defined
+2025-03-31 07:39:25,133 - FocusGuard - INFO - Attempted to close tab containing netflix.com using keyboard shortcut
+2025-03-31 07:39:35,173 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:39:53,213 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:40:11,609 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:40:20,037 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:40:29,364 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:40:36,615 - FocusGuard - INFO - Focus monitoring stopped
+2025-03-31 07:40:37,433 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:43:52,506 - FocusGuard - INFO - Focus monitoring started
+2025-03-31 07:43:55,329 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:44:21,226 - FocusGuard - ERROR - Audio playback failed: [Errno 13] Permission denied: 'C:\\Users\\LikhitChirmade\\AppData\\Local\\Temp\\tmpyk74y4vd.wav'
+2025-03-31 07:44:22,446 - FocusGuard - INFO - Attempted to close tab containing netflix.com using keyboard shortcut
+2025-03-31 07:44:31,268 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:44:40,945 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:44:49,544 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:44:58,865 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:45:07,872 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:45:16,426 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:45:25,937 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:45:35,383 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:45:45,312 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:45:55,691 - FocusGuard - INFO - Focus monitoring started
+2025-03-31 07:45:58,517 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:46:23,822 - FocusGuard - ERROR - Audio playback failed: [Errno 13] Permission denied: 'C:\\Users\\LikhitChirmade\\AppData\\Local\\Temp\\tmpxjahnrxx.wav'
+2025-03-31 07:46:25,040 - FocusGuard - INFO - Attempted to close tab containing netflix.com using keyboard shortcut
+2025-03-31 07:46:33,967 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:46:43,570 - FocusGuard - INFO - Focus monitoring stopped
+2025-03-31 07:46:51,276 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:50:09,940 - FocusGuard - INFO - Focus monitoring started
+2025-03-31 07:50:12,810 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:50:36,924 - FocusGuard - ERROR - Voice alert system failed: cannot access local variable 'temp_path' where it is not associated with a value
+2025-03-31 07:50:38,150 - FocusGuard - INFO - Attempted to close tab containing netflix.com using keyboard shortcut
+2025-03-31 07:50:48,075 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:50:57,368 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:52:26,943 - FocusGuard - INFO - Focus monitoring started
+2025-03-31 07:52:29,664 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:52:54,339 - FocusGuard - ERROR - Audio playback failed: [Errno 13] Permission denied: 'C:\\Users\\LikhitChirmade\\AppData\\Local\\Temp\\tmpp7hci6oy.wav'
+2025-03-31 07:52:55,563 - FocusGuard - INFO - Attempted to close tab containing netflix.com using keyboard shortcut
+2025-03-31 07:53:04,893 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:53:14,016 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:53:23,080 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:53:32,098 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:53:41,120 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:53:50,313 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:53:59,669 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:54:09,096 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:54:22,157 - FocusGuard - INFO - Focus monitoring started
+2025-03-31 07:54:24,819 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:54:50,166 - FocusGuard - ERROR - Audio playback failed: [Errno 13] Permission denied: 'C:\\Users\\LikhitChirmade\\AppData\\Local\\Temp\\tmppyo_innu.wav'
+2025-03-31 07:54:51,401 - FocusGuard - INFO - Attempted to close tab containing netflix.com using keyboard shortcut
+2025-03-31 07:55:00,471 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:55:10,070 - FocusGuard - INFO - Focus monitoring stopped
+2025-03-31 07:55:17,895 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:56:42,018 - FocusGuard - INFO - Focus monitoring started
+2025-03-31 07:56:45,016 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:56:53,161 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:56:53,164 - FocusGuard - INFO - Focus monitoring stopped
+2025-03-31 07:56:57,912 - FocusGuard - INFO - Focus monitoring started
+2025-03-31 07:57:00,054 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:57:26,058 - FocusGuard - ERROR - Audio playback failed: [Errno 13] Permission denied: 'C:\\Users\\LikhitChirmade\\AppData\\Local\\Temp\\tmpgg6wm0vp.wav'
+2025-03-31 07:57:26,734 - FocusGuard - INFO - Attempted to close tab containing netflix.com using keyboard shortcut
+2025-03-31 07:57:36,030 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:57:44,519 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 07:57:44,521 - FocusGuard - INFO - Focus monitoring stopped
+2025-03-31 08:03:49,596 - FocusGuard - INFO - Focus monitoring started
+2025-03-31 08:03:52,611 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 08:03:56,391 - FocusGuard - INFO - Focus monitoring stopped
+2025-03-31 08:03:59,174 - FocusGuard - INFO - Focus monitoring started
+2025-03-31 08:04:00,553 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 08:04:03,162 - FocusGuard - INFO - Focus monitoring stopped
+2025-03-31 08:04:04,307 - FocusGuard - INFO - Focus monitoring stopped
+2025-03-31 08:04:09,356 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 08:04:09,487 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 08:11:21,685 - FocusGuard - INFO - Configuration updated
+2025-03-31 08:11:26,975 - FocusGuard - INFO - Focus monitoring started
+2025-03-31 08:11:30,001 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 08:11:55,804 - FocusGuard - ERROR - Audio playback failed: [Errno 13] Permission denied: 'C:\\Users\\LikhitChirmade\\AppData\\Local\\Temp\\tmptmnhx00e.wav'
+2025-03-31 08:12:14,207 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 08:12:16,125 - FocusGuard - INFO - Configuration updated
+2025-03-31 08:13:26,322 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 08:14:01,678 - FocusGuard - ERROR - Audio playback failed: [Errno 13] Permission denied: 'C:\\Users\\LikhitChirmade\\AppData\\Local\\Temp\\tmpdqy5vy1f.wav'
+2025-03-31 08:14:02,345 - FocusGuard - INFO - Attempted to close tab containing netflix.com using keyboard shortcut
+2025-03-31 08:14:09,969 - FocusGuard - ERROR - Error in monitoring loop: (3221225786, 'ObjectCache(00007ff846706600)::~ObjectCache(): WARNING! LEAK! object 00000189861f5f60 still has count 1 (id C:\\Program Files\\Tesseract-OCR/tessdata/eng.traineddatalstm-punc-dawg) ObjectCache(00007ff846706600)::~ObjectCache(): WARNING! LEAK! object 000001898586eda0 still has count 1 (id C:\\Program Files\\Tesseract-OCR/tessdata/eng.traineddatalstm-word-dawg) ObjectCache(00007ff846706600)::~ObjectCache(): WARNING! LEAK! object 000001898586ed30 still has count 1 (id C:\\Program Files\\Tesseract-OCR/tessdata/eng.traineddatalstm-number-dawg)')
+2025-03-31 08:23:02,817 - FocusGuard - INFO - Focus monitoring started
+2025-03-31 08:23:06,886 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 08:23:15,348 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 08:23:24,549 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 08:23:33,474 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 08:23:56,868 - FocusGuard - INFO - Focus monitoring stopped
+2025-03-31 08:24:00,402 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 08:25:47,166 - FocusGuard - INFO - Focus monitoring started
+2025-03-31 08:25:50,221 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 08:25:58,595 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 08:26:07,685 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 08:26:16,813 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 08:26:25,614 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 08:26:34,422 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 08:26:41,054 - FocusGuard - INFO - Focus monitoring stopped
+2025-03-31 08:26:42,926 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 08:32:26,383 - FocusGuard - INFO - Focus monitoring started
+2025-03-31 08:32:29,679 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 08:32:37,823 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 08:32:56,799 - FocusGuard - ERROR - Audio playback failed: [Errno 13] Permission denied: 'C:\\Users\\LikhitChirmade\\AppData\\Local\\Temp\\tmpyig16cpx.wav'
+2025-03-31 08:33:10,992 - FocusGuard - INFO - Focus monitoring stopped
+2025-03-31 08:33:12,586 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 08:41:13,605 - FocusGuard - INFO - Focus monitoring started
+2025-03-31 08:41:32,999 - FocusGuard - ERROR - Audio playback failed: [Errno 13] Permission denied: 'C:\\Users\\LikhitChirmade\\AppData\\Local\\Temp\\tmp6nbz88td.wav'
+2025-03-31 08:42:00,917 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 08:42:09,903 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 08:42:19,334 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 08:42:19,334 - FocusGuard - INFO - Focus monitoring stopped
+2025-03-31 08:42:28,139 - FocusGuard - INFO - Focus monitoring started
+2025-03-31 08:42:32,809 - FocusGuard - INFO - Focus monitoring stopped
+2025-03-31 08:42:39,154 - FocusGuard - INFO - Focus monitoring started
+2025-03-31 08:42:50,624 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 08:43:18,763 - FocusGuard - INFO - Focus monitoring stopped
+2025-03-31 08:43:38,502 - FocusGuard - INFO - Focus monitoring started
+2025-03-31 08:43:49,031 - FocusGuard - ERROR - Audio playback failed: [Errno 13] Permission denied: 'C:\\Users\\LikhitChirmade\\AppData\\Local\\Temp\\tmpg2m6xmqg.wav'
+2025-03-31 08:43:59,478 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 08:45:00,137 - FocusGuard - INFO - Focus monitoring stopped
+2025-03-31 08:45:07,569 - FocusGuard - INFO - Focus monitoring started
+2025-03-31 08:45:17,268 - FocusGuard - INFO - Focus monitoring started
+2025-03-31 08:45:26,612 - FocusGuard - ERROR - Audio playback failed: [Errno 13] Permission denied: 'C:\\Users\\LikhitChirmade\\AppData\\Local\\Temp\\tmp2lxeffzu.wav'
+2025-03-31 08:45:36,551 - FocusGuard - ERROR - Audio playback failed: [Errno 13] Permission denied: 'C:\\Users\\LikhitChirmade\\AppData\\Local\\Temp\\tmpm9q224n_.wav'
+2025-03-31 08:45:46,633 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 08:45:46,648 - FocusGuard - INFO - Focus monitoring stopped
+2025-03-31 08:46:02,851 - FocusGuard - INFO - Focus monitoring started
+2025-03-31 08:46:05,703 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 08:46:30,612 - FocusGuard - ERROR - Audio playback failed: [Errno 13] Permission denied: 'C:\\Users\\LikhitChirmade\\AppData\\Local\\Temp\\tmp420zqexm.wav'
+2025-03-31 08:46:31,299 - FocusGuard - INFO - Attempted to close tab containing instagram.com using keyboard shortcut
+2025-03-31 08:46:49,460 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 08:47:07,659 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 08:47:17,247 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 08:47:25,340 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 08:47:34,079 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 08:47:43,192 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 08:48:03,574 - FocusGuard - INFO - Focus monitoring stopped
+2025-03-31 08:58:00,798 - FocusGuard - INFO - Focus monitoring started
+2025-03-31 08:58:01,602 - FocusGuard - ERROR - Monitoring error: expected string or bytes-like object, got 'dict'
+2025-03-31 08:58:10,217 - FocusGuard - ERROR - Monitoring error: expected string or bytes-like object, got 'dict'
+2025-03-31 08:58:20,030 - FocusGuard - ERROR - Monitoring error: 'dict' object has no attribute 'lower'
+2025-03-31 08:58:20,044 - FocusGuard - ERROR - Audio playback failed: [Errno 13] Permission denied: 'C:\\Users\\LikhitChirmade\\AppData\\Local\\Temp\\tmp1pvx34b6.wav'
+2025-03-31 08:58:28,519 - FocusGuard - ERROR - Monitoring error: 'dict' object has no attribute 'lower'
+2025-03-31 08:58:28,538 - FocusGuard - ERROR - Audio playback failed: [Errno 13] Permission denied: 'C:\\Users\\LikhitChirmade\\AppData\\Local\\Temp\\tmpd4c75xtj.wav'
+2025-03-31 08:58:37,728 - FocusGuard - ERROR - Monitoring error: 'dict' object has no attribute 'lower'
+2025-03-31 08:58:37,746 - FocusGuard - ERROR - Audio playback failed: [Errno 13] Permission denied: 'C:\\Users\\LikhitChirmade\\AppData\\Local\\Temp\\tmp7xm7brlg.wav'
+2025-03-31 08:58:45,715 - FocusGuard - ERROR - Monitoring error: 'dict' object has no attribute 'lower'
+2025-03-31 08:58:45,727 - FocusGuard - ERROR - Audio playback failed: [Errno 13] Permission denied: 'C:\\Users\\LikhitChirmade\\AppData\\Local\\Temp\\tmp0v2a2xb8.wav'
+2025-03-31 08:58:55,545 - FocusGuard - ERROR - Monitoring error: 'dict' object has no attribute 'lower'
+2025-03-31 08:58:55,564 - FocusGuard - ERROR - Audio playback failed: [Errno 13] Permission denied: 'C:\\Users\\LikhitChirmade\\AppData\\Local\\Temp\\tmpx1c_v0o6.wav'
+2025-03-31 08:59:03,866 - FocusGuard - ERROR - Monitoring error: 'dict' object has no attribute 'lower'
+2025-03-31 08:59:03,875 - FocusGuard - ERROR - Audio playback failed: [Errno 13] Permission denied: 'C:\\Users\\LikhitChirmade\\AppData\\Local\\Temp\\tmpaepmwndb.wav'
+2025-03-31 08:59:05,827 - FocusGuard - INFO - Focus monitoring stopped
+2025-03-31 09:08:37,489 - FocusGuard - INFO - Focus monitoring started
+2025-03-31 09:08:41,685 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 09:09:05,124 - FocusGuard - ERROR - Audio playback failed: [Errno 13] Permission denied: 'C:\\Users\\LikhitChirmade\\AppData\\Local\\Temp\\tmpw_g1ijdq.wav'
+2025-03-31 09:09:05,720 - FocusGuard - INFO - Attempted to close tab containing instagram.com using keyboard shortcut
+2025-03-31 09:10:27,560 - httpx - INFO - HTTP Request: POST https://chatapi.akash.network/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 09:11:12,657 - FocusGuard - ERROR - Audio playback failed: [Errno 13] Permission denied: 'C:\\Users\\LikhitChirmade\\AppData\\Local\\Temp\\tmp5dcob8dj.wav'
